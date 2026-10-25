@@ -1,0 +1,11 @@
+
+..venv/
+.venv-1/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+rfp_evaluation.db
+exports/
+.vscode/
